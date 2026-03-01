@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Anh Quân MKT AI Studio - Ứng dụng Ghép Ảnh Thời Trang",
+  "description": "Studio thời trang AI chuyên nghiệp dùng để ghép người mẫu với sản phẩm, thay đổi trang phục và tạo bối cảnh thực tế. Hỗ trợ API Key riêng để không giới hạn lượt truy cập.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
